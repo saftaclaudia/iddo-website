@@ -1,5 +1,5 @@
-<div class="header">
-		<div class= "wrapper">
+<div class="header clearfix">
+		<div class= "wrapper clearfix">
 			<h1>IDDO</h1>
 			<ul class="head_manue">
 				<li><a href= "index.php">Home</a></li>

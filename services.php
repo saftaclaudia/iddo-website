@@ -12,7 +12,7 @@
 		require('includes/header.php');
 	?>
 	<div class = "content">
-		<div class="wrapper">
+		<div class="wrapper clearfix">
 			<div class="float width20">
 				<p>OUR SERVICES.</p>
 			</div>

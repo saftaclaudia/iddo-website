@@ -1,7 +1,6 @@
 .content{
 	background-color: #42b8dd;
-	padding-top: 120px;
-	height: 400px;
+	padding: 160px 0 160px 0;
 }
 .float{
 	float: left;
@@ -49,7 +48,6 @@ float: right;
 	}
 .bottom_menu{
 	background-color: #ffffff;
-	height: 100px;
 }
 .bottom_menu ul{
 	margin-left: 0px;

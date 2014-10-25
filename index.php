@@ -12,7 +12,7 @@
 	require('includes/header.php');
 	?>
 	<div class="central_content">
-		<div class="wrapper">
+		<div class="wrapper clearfix">
 			<div data-media="file1.mp3" class="play"></div>
 			<div class="text">
 				<h2>Let me show you a few things.</h2>
